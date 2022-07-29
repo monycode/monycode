@@ -15,9 +15,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
-- 🔭 I’m a recent bootcamp graduate, currently working on small persoanl projects to build my skills and portfolio...
-- 👯 I’m looking to collaborate on content creation for the tech industry.
+I am a Junior Ruby on rails Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+- 🔭 I’m a recent Le Wagon bootcamp graduate, currently working on small persoanl projects to build my skills and portfolio...
+# - 👯 I’m looking to collaborate on content creation for the tech industry.
 
 ---
 
